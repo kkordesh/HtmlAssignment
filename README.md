@@ -1,2 +1,0 @@
-# HtmlAssignment
-Practicing basic tags
